@@ -33,3 +33,22 @@ Figma Design: [Houzeo Assignment - Figma](https://www.figma.com/design/3nhfwcFid
 ```bash
 git clone https://github.com/your-username/houzeo.git
 cd houzeo
+
+```
+### 2. Install Dependencies
+
+```bash
+npm i
+
+```
+### 3. Start the Development Server
+
+```bash
+
+npm run dev
+```
+### 4. Open your browser and go to:
+
+```bash
+http://localhost:5173
+```
